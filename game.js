@@ -14,7 +14,7 @@ let game = {
   rows: 4,
   cols: 8,
   width: 640,
-  height: 360,
+  height: 310,
   sprites: {
     background: null,
     ball: null,
